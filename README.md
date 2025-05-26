@@ -1,7 +1,3 @@
-from pathlib import Path
-
-# README content with GitHub badges and personalized info
-readme_with_badges = """\
 # 🧰 BOM Verifier & Part Library Converter
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
