@@ -1,0 +1,4 @@
+{
+  "PN1001": {"Description": "10k Resistor", "Value": "10k", "Footprint": "0603"},
+  "PN1002": {"Description": "0.1uF Capacitor", "Value": "0.1uF", "Footprint": "0402"}
+}
